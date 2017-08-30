@@ -1,0 +1,46 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="start" type="Bash" />
+      <mapping pattern="all-switch-config" type="Bash" />
+      <mapping pattern="nginx" type="Bash" />
+      <mapping pattern="update-microbuild" type="Bash" />
+      <mapping pattern="-t" type="Bash" />
+      <mapping pattern="-s" type="Bash" />
+      <mapping pattern="sync-ssh-keys-download" type="Bash" />
+      <mapping pattern="microbuild" type="Bash" />
+      <mapping pattern="dmg" type="Bash" />
+      <mapping pattern="_program_force_update" type="Bash" />
+      <mapping pattern="reload" type="Bash" />
+      <mapping pattern="reset" type="Bash" />
+      <mapping pattern="ip-ban" type="Bash" />
+      <mapping pattern="update-toolbox" type="Bash" />
+      <mapping pattern="make-file-swap" type="Bash" />
+      <mapping pattern="fedora_dnf_wrap" type="Bash" />
+      <mapping pattern="debug-start" type="Bash" />
+      <mapping pattern="logcat" type="Bash" />
+      <mapping pattern="update-all" type="Bash" />
+      <mapping pattern="clear" type="Bash" />
+      <mapping pattern="all-update" type="Bash" />
+      <mapping pattern="logtail" type="Bash" />
+      <mapping ext="dockerfile" type="Dockerfile" />
+      <mapping pattern="docker" type="PLAIN_TEXT" />
+      <mapping pattern="update-scripts" type="PLAIN_TEXT" />
+      <mapping pattern="dnf_wrap" type="PLAIN_TEXT" />
+      <mapping pattern="update-nodejs" type="PLAIN_TEXT" />
+      <mapping pattern="xxx" type="PLAIN_TEXT" />
+      <mapping pattern="office-servers-center" type="PLAIN_TEXT" />
+      <mapping pattern="tryGetTokenFromRequest" type="PLAIN_TEXT" />
+      <mapping pattern="cc" type="PLAIN_TEXT" />
+      <mapping pattern="-T" type="PLAIN_TEXT" />
+      <mapping pattern=".empty" type="PLAIN_TEXT" />
+      <mapping pattern="htpasswd" type="PLAIN_TEXT" />
+      <mapping pattern=".gitinclude" type="PLAIN_TEXT" />
+      <mapping pattern="cn" type="PLAIN_TEXT" />
+      <mapping ext="dnsmasq" type="PLAIN_TEXT" />
+      <mapping ext="expect" type="PLAIN_TEXT" />
+      <mapping ext="cnf" type="PLAIN_TEXT" />
+      <mapping ext="tcl" type="TSLint" />
+    </extensionMap>
+  </component>
+</application>

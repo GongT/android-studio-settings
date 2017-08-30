@@ -1,0 +1,25 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>**inv*.js.tpl</mask>
+      <mask>*inv*.js</mask>
+      <mask>*.tpl</mask>
+      <mask>*.json</mask>
+      <mask>*.js</mask>
+      <mask>*.php</mask>
+      <mask>*.html</mask>
+      <mask>packages</mask>
+      <mask>*.ts</mask>
+    </recentFileMasks>
+  </component>
+</application>

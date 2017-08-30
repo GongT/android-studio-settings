@@ -1,0 +1,13 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="TypeScript">
+        <added pattern="*.then(onfulfilled, onrejected)" />
+        <added pattern="die(*)" />
+      </blacklist>
+      <blacklist language="PHP">
+        <removed pattern="" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
