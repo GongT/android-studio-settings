@@ -2,45 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c99480b-9559-4744-b3ee-df82e1b811fe" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androidStudioFirstRun.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_linux/applicationLibraries.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/angularTemplates.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/codestyles/Default _1_.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/codestyles/Default.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/codestyles/PSR.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/colors/_@user_Darcula.icls" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/databaseDrivers.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/databaseSettings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fileTemplates/Action.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fileTemplates/ExpressController.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fileTemplates/SQL Script.sql" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fileTemplates/code/PHP Overridden Method Body.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fileTemplates/includes/PHP Class Doc Comment.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fileTemplates/includes/PHP File Header.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fileTemplates/includes/PHP Function Doc Comment.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fileTemplates/internal/JavaScript File.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fileTemplates/internal/PHP Class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fileTemplates/internal/PHP Interface.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fileTemplates/internal/PHP Trait.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fileTemplates/internal/PHPUnit Test.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fileTemplates/template.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/inspection/Default.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/keymaps/Eclipse copy.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/keymaps/Emacs copy.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/keymaps/MyEclipse.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/php.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project.default.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/remotecall.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uml.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/watcherDefaultTasks.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web-browsers.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webServers.xml" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/keymaps/My Key Binding.xml" afterPath="$PROJECT_DIR$/keymaps/GongT.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_linux/keymap.xml" afterPath="$PROJECT_DIR$/_linux/keymap.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_windows/keymap.xml" afterPath="$PROJECT_DIR$/_windows/keymap.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tools/External Tools.xml" afterPath="$PROJECT_DIR$/tools/External Tools.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vcs.xml" afterPath="$PROJECT_DIR$/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_linux/keymap.xml" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -51,38 +13,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="plugin_ui.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/plugin_ui.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ui.lnf.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ui.lnf.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="vcs.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/vcs.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -199,18 +130,17 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="493000" />
+    <option name="totallyTimeSpent" value="494000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1040" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Unicode Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2497309" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -220,6 +150,7 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
